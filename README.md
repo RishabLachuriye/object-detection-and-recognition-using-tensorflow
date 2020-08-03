@@ -16,3 +16,4 @@ pip install --user pillow
 pip install --user lxml
 pip install --user jupyter
 pip install --user matplotlib 
+[![HitCount](http://hits.dwyl.com/RishabLachuriye/object-detection-and-recognition-using-tensorflow.svg)](http://hits.dwyl.com/RishabLachuriye/object-detection-and-recognition-using-tensorflow)
